@@ -56,7 +56,7 @@ dependencies:
 - pcre=8.41=1
 - pexpect=4.4.0=py36_0
 - pickleshare=0.7.4=py36_0
-- pip=9.0.3=py36_0
+- pip
 - prompt_toolkit=1.0.15=py36_0
 - ptyprocess=0.5.2=py36_0
 - pygments=2.2.0=py36_0
